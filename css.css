@@ -1,0 +1,10 @@
+.timer {
+color: rgb(47, 0, 255);
+font-size: larger;
+text-align: center;
+}
+
+.timer-numbers {
+    color: rgb(255, 0, 0);
+    font-size: 150%;
+}
